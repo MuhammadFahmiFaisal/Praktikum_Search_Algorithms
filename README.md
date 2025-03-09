@@ -1,10 +1,7 @@
 # Praktikum Algoritma Pencarian (Search Algorithms)
 
 ## 📌 Deskripsi
-Repository ini berisi implementasi berbagai algoritma pencarian dalam **Python**, khususnya:
-- **Uninformed Search**: Depth First Search (DFS), Breadth First Search (BFS), dan Uniform Cost Search (UCS).
-
-Dimana setiap algoritma tersebut digunakan untuk mencari jalur dalam graf berbobot maupun tidak berbobot sesuai dengan karakteristiknya masing-masing.
+Repository ini berisi implementasi berbagai algoritma pencarian dalam **Python**, yaitu **Uninformed Search** yang terdiri dari Depth First Search (DFS), Breadth First Search (BFS), dan Uniform Cost Search (UCS).Dimana setiap algoritma tersebut digunakan untuk mencari jalur dalam graf berbobot maupun tidak berbobot sesuai dengan karakteristiknya masing-masing.
 
 
 ## 📖 Penjelasan Algoritma
@@ -34,5 +31,4 @@ UCS merupakan varian dari BFS yang memperhitungkan **biaya** antar simpul. Algor
      !python ucs.py  # Untuk menjalankan UCS
      
 3. **Pastikan semua dependensi telah terinstal**:
-   
 4. **Jalankan dan analisis hasilnya!**
